@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.usersapp">
    <application
-        android:label="usersapp"
+        android:label="REST API Users"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
